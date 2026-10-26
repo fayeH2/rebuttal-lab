@@ -1,0 +1,21 @@
+# Local editor and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Dependencies and temporary output
+node_modules/
+*.log
+*.tar.gz
+
+# Hosting-specific private metadata
+.openai/
+.sites-checkout/
+.sites-runtime/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
