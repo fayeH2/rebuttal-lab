@@ -4,6 +4,10 @@
 
 网站无需账号或登录。每位访问者的方案和草稿均保存在自己的浏览器中。
 
+## 在线访问
+
+直接访问已部署的网站：[https://fayeh2.github.io/rebuttal-lab/](https://fayeh2.github.io/rebuttal-lab/)
+
 ## 功能
 
 - 单次回复、多个回复框、多轮讨论三种交互模式
